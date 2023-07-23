@@ -24,9 +24,9 @@ def postorder_traversal(node):
 
 # Membangun pohon biner
 root = Node("Faza")
-root.left = Node("Rizqy")
-root.right = Node("Rezsuwandi")
-root.left.left = Node("Septin")
+root.left = Node("Yoga" )
+root.right = Node("Ardana")
+# root.left.left = Node("Septin")
 # root.left.right = Node("David")
 # root.right.left = Node("Eva")
 # root.right.right = Node("Frank")
